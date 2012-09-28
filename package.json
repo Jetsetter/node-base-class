@@ -1,0 +1,19 @@
+{
+  "name": "node-base-class",
+  "description": "Base class system for Node.js with support for EventEmitter (based off John Resigs Inheritance Model)",
+  "main": "./index",
+  "author": {
+    "name": "Daniel Schwartz",
+    "email": "dschwartz88@gmail.com"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielschwartz/node-base-class.git"
+  },
+  "bugs": {
+    "url": "http://github.com/danielschwartz/node-base-class/issues"
+  },
+  "_id": "node-base-class@0.0.1",
+  "_from": "node-base-class"
+}
